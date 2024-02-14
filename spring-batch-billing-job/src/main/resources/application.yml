@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    # remember to check the random port exposed by the docker container
+    url: jdbc:postgresql://localhost:32768/postgres
+    username: postgres
