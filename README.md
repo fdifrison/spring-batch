@@ -1,8 +1,6 @@
 # Spring Framework Projects
 
-**Author: Giovanni Frison**
-
-**Contact: ing.giovanni.frison@gmail.com**
+**Url**: https://spring.academy/courses/building-a-batch-application-with-spring-batch
 
 **Spring Batch**: spring-batch-billing-job (Spring Batch - Docker - PostgreSQL)
 
